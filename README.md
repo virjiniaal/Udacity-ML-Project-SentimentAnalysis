@@ -1,2 +1,2 @@
-# Udacity-ML-Projects
-Projects from ML Course
+# Udacity-ML-Project-Sentiment Analysis
+Projects on sentiment analysis for movie reviews
